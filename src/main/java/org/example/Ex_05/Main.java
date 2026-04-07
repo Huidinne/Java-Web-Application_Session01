@@ -1,7 +1,7 @@
-package org.example;
+package org.example.Ex_05;
 
-import org.example.config.AppConfig;
-import org.example.model.SystemConfig;
+import org.example.Ex_05.config.AppConfig;
+import org.example.Ex_05.model.SystemConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

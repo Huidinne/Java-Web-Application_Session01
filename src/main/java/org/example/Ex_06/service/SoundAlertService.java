@@ -1,4 +1,4 @@
-package org.example.session01.service;
+package org.example.Ex_06.service;
 import org.springframework.stereotype.Component;
 
 @Component("sound")

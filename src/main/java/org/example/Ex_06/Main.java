@@ -1,6 +1,6 @@
-package org.example.session01;
-import org.example.config.AppConfig;
-import org.example.session01.service.PlaySessionService;
+package org.example.Ex_06;
+import org.example.Ex_05.config.AppConfig;
+import org.example.Ex_06.service.PlaySessionService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

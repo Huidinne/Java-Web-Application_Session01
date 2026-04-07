@@ -1,4 +1,4 @@
-package org.example.session01.service;
+package org.example.Ex_06.service;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
